@@ -30,8 +30,18 @@ ai in software engineering
 * [Docify AI](http://docify/): An automated code comment generator and documentation tool that helps software developers improve code quality, save time, and increase productivity. It supports various programming languages and integrates with popular IDEs.
 * [CodePal](https://codepal.ai/code-documentation?utm_source=chatgpt.com): An AI-powered code documentation tool that supports over 30 programming languages. It assists in generating comprehensive documentation, ensuring consistency, and improving code maintainability.
 
-
 ### articles
 * [AI Code Documentation Generators: A Guide](https://overcast.blog/ai-code-documentation-generators-a-guide-b6cd72cd0ec4)
 * [DocAider: Automated Documentation Maintenance for Open-source GitHub Repositories](https://techcommunity.microsoft.com/blog/educatordeveloperblog/docaider-automated-documentation-maintenance-for-open-source-github-repositories/4245588)
 * [Project Guide: AI-Powered Documentation Generator for Codebases](https://www.reddit.com/r/Python/comments/1gx2515/project_guide_aipowered_documentation_generator/)
+
+
+## 2.coding copilot
+
+### opensource project
+
+### products
+
+### articles
+* [How Cody understands your codebase](https://sourcegraph.com/blog/how-cody-understands-your-codebase)
+
