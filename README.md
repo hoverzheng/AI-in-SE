@@ -6,6 +6,7 @@ ai in software engineering
 ### opensource project
 * https://github.com/connor-john/ai-docs
 * https://github.com/ucl-docaider/docAider
+* https://write-the.wytamma.com/commands/mkdocs/
 * https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/code/analyze_codebase_with_gemini_1_5_pro.ipynb
 * https://github.com/sojohnnysaid/project-guide
 
