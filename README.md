@@ -7,6 +7,10 @@ ai in software engineering
 * https://github.com/scottrogowski/code2flow
 
   Code2flow generates call graphs for dynamic programming language. Code2flow supports Python, JavaScript, Ruby, and PHP.
+* https://github.com/abryant710/auto-codebase-documenter
+
+  A tool that will use generative AI to automatically create documentation for every file in your codebase
+
 * https://github.com/connor-john/ai-docs
 * https://github.com/ucl-docaider/docAider
 * https://write-the.wytamma.com/commands/mkdocs/
