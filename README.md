@@ -10,6 +10,10 @@ ai in software engineering
 * https://github.com/GoogleCloudPlatform/generative-ai/blob/main/gemini/use-cases/code/analyze_codebase_with_gemini_1_5_pro.ipynb
 * https://github.com/sojohnnysaid/project-guide
 * https://github.com/kamilstanuch/codebase-digest
+Codebase Digest is a command-line tool written in Python that helps you analyze and understand your codebase. It provides a structured overview of your project's directory structure, file sizes, token counts, and even consolidates the content of all text-based files into a single output for easy analysis with Large Language Models (LLMs).
+
+
+
 
 ### articles
 * [DocAider: Automated Documentation Maintenance for Open-source GitHub Repositories](https://techcommunity.microsoft.com/blog/educatordeveloperblog/docaider-automated-documentation-maintenance-for-open-source-github-repositories/4245588)
