@@ -19,6 +19,11 @@ ai in software engineering
 * https://github.com/kamilstanuch/codebase-digest
 
   Codebase Digest is a command-line tool written in Python that helps you analyze and understand your codebase. It provides a structured overview of your project's directory structure, file sizes, token counts, and even consolidates the content of all text-based files into a single output for easy analysis with Large Language Models (LLMs).
+* https://github.com/context-labs/autodoc
+
+Experimental toolkit for auto-generating codebase documentation using LLMs
+
+
 
 
 ### products
