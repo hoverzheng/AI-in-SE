@@ -23,6 +23,12 @@ ai in software engineering
 
 ### products
 * [swimm](https://swimm.io/)
+* [Qodo](https://www.qodo.ai/): Focused on testing documentation, it complements code insights with relevant testing instructions.
+* [DocuWriter.ai](http://docuwriter/): An AI-powered tool that automates the generation of code and API documentation directly from your source code files. It supports multiple programming languages and aims to save developers time by producing clear and comprehensive documentation.
+* [Workik AI](http://workik/): Provides assistance in code documentation by generating clear and comprehensive documentation, ensuring consistent formatting, and creating illustrative code examples. It integrates with code repositories from platforms like GitHub, GitLab, or Bitbucket, facilitating seamless documentation processes.
+* [CodeGPT](http://codegpt/): An AI assistant integrated into Visual Studio Code that simplifies the creation of comprehensive code documentation. It generates detailed documentation and integrates seamlessly with the development environment, enhancing the coding experience.
+* [Docify AI](http://docify/): An automated code comment generator and documentation tool that helps software developers improve code quality, save time, and increase productivity. It supports various programming languages and integrates with popular IDEs.
+* [CodePal](https://codepal.ai/code-documentation?utm_source=chatgpt.com): An AI-powered code documentation tool that supports over 30 programming languages. It assists in generating comprehensive documentation, ensuring consistency, and improving code maintainability.
 
 
 ### articles
