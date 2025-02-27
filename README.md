@@ -50,3 +50,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ### articles
 * [How Cody understands your codebase](https://sourcegraph.com/blog/how-cody-understands-your-codebase)
 
+
+## 3.其他工具
+* 正则表达式生成器：https://github.com/rajibola/human-regex
