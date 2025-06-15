@@ -52,4 +52,4 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 3.其他工具
 * 正则表达式生成器：https://github.com/rajibola/human-regex
-* https://github.com/mckaywrigley/ai-code-translator.git：不同语言之间的代码转换
+* [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator.git)：不同语言之间的代码转换
