@@ -27,6 +27,8 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [draw-a-ui](https://github.com/SawyerHood/draw-a-ui.git)
 
 
+
+
 ### products
 * [swimm](https://swimm.io/)
 * [Qodo](https://www.qodo.ai/): Focused on testing documentation, it complements code insights with relevant testing instructions.
@@ -55,3 +57,8 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 3.其他工具
 * 正则表达式生成器：https://github.com/rajibola/human-regex
 * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator.git)：不同语言之间的代码转换
+
+## 4.大模型观测
+* [llm_debugger](https://github.com/akhalsa/llm_debugger)
+
+* 
