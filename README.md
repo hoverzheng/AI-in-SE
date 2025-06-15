@@ -59,6 +59,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator.git)：不同语言之间的代码转换
 
 ## 4.大模型观测
-* [llm_debugger](https://github.com/akhalsa/llm_debugger)
+* [llm_debugger](https://github.com/akhalsa/llm_debugger): 可以调试大模型输入输出
 
 * 
