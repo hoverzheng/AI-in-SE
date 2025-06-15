@@ -61,4 +61,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 4.大模型观测
 * [llm_debugger](https://github.com/akhalsa/llm_debugger): 可以调试大模型输入输出
 
-* 
+
+## mcp
+* https://github.com/BeehiveInnovations/zen-mcp-server
