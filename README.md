@@ -64,3 +64,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## mcp
 * https://github.com/BeehiveInnovations/zen-mcp-server
+
+## 软件开发
+* 仅仅用来编写后端的系统：https://pipo360.xyz/#demo
