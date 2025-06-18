@@ -62,6 +62,9 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 4.大模型观测
 * [llm_debugger](https://github.com/akhalsa/llm_debugger): 可以调试大模型输入输出
 
+## 5. 大模型安全
+* prompt注入： https://simonwillison.net/series/prompt-injection/
+
 
 ## mcp
 * https://github.com/BeehiveInnovations/zen-mcp-server
