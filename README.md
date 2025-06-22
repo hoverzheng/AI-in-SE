@@ -22,6 +22,7 @@ ai in software engineering
 * https://github.com/SawyerHood/draw-a-ui.git
 * [TS写的工具把代码库转换成文档](https://github.com/context-labs/autodoc)：目前还处于开发状态
 * https://github.com/raphaelmansuy/code2prompt
+* [python库：把代码库转换成文档](https://pypi.org/project/auto-codebase-documenter/)：把代码库转换成文档的python库
 
 Experimental toolkit for auto-generating codebase documentation using LLMs
 
