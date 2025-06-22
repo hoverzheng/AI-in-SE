@@ -59,7 +59,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ## 3.其他工具
 * 正则表达式生成器：https://github.com/rajibola/human-regex
 * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator.git)：不同语言之间的代码转换
-* [内容切割工具](https://github.com/chonkie-inc/chonkie-ts) ： 专门对文档，代码进行切割的工具库
+* [内容切割工具](https://chonkie.ai/) ： 专门对文档，代码进行切割的工具库
 
 ## 4.大模型观测
 * [llm_debugger](https://github.com/akhalsa/llm_debugger): 可以调试大模型输入输出
