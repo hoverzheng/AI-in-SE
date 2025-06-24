@@ -69,6 +69,10 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * prompt注入： https://simonwillison.net/series/prompt-injection/
 
 
+## 代码对话
+* https://github.com/alexminnaar/RepoGPT
+
+
 ## mcp
 * https://github.com/BeehiveInnovations/zen-mcp-server
 
