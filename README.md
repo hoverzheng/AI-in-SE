@@ -30,8 +30,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [draw-a-ui](https://github.com/SawyerHood/draw-a-ui.git)
 
 
-
-
 ### products
 * [swimm](https://swimm.io/)
 * [Qodo](https://www.qodo.ai/): Focused on testing documentation, it complements code insights with relevant testing instructions.
@@ -47,7 +45,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [Project Guide: AI-Powered Documentation Generator for Codebases](https://www.reddit.com/r/Python/comments/1gx2515/project_guide_aipowered_documentation_generator/)
 
 
-## 2.coding copilot
+## 3.coding copilot
 
 ### opensource project
 
@@ -57,24 +55,24 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [How Cody understands your codebase](https://sourcegraph.com/blog/how-cody-understands-your-codebase)
 
 
-## 3.其他工具
+## 4.其他工具
 * 正则表达式生成器：https://github.com/rajibola/human-regex
 * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator.git)：不同语言之间的代码转换
 * [内容切割工具](https://chonkie.ai/) ： 专门对文档，代码进行切割的工具库
 
-## 4.大模型观测
+## 5.大模型观测
 * [llm_debugger](https://github.com/akhalsa/llm_debugger): 可以调试大模型输入输出
 
-## 5. 大模型安全
+## 6. 大模型安全
 * prompt注入： https://simonwillison.net/series/prompt-injection/
 
 
-## 6.代码对话
+## 7.代码对话
 * https://github.com/alexminnaar/RepoGPT
 * https://github.com/weaviate/recipes/tree/main/integrations
 
 
-## mcp
+## 8.mcp
 * https://github.com/BeehiveInnovations/zen-mcp-server
 
 ## 软件开发
