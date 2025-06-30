@@ -50,6 +50,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 ### opensource project
 
 ### products
+* https://www.augmentcode.com/
 
 ### articles
 * [How Cody understands your codebase](https://sourcegraph.com/blog/how-cody-understands-your-codebase)
@@ -74,6 +75,25 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 8.mcp
 * https://github.com/BeehiveInnovations/zen-mcp-server
+
+## 9. code review
+### 开源产品
+* https://www.sourcebot.dev/
+* https://docs.sourcebot.dev/docs/overview
+* https://github.com/qodo-ai/pr-agent?tab=readme-ov-file
+* https://www.tweakr.dev/
+* https://github.com/kodustech/kodus-ai
+
+### 商用产品
+* https://www.coderabbit.ai/
+* https://coderev.app/
+* https://callstack.ai/code-reviewer
+* https://callstack.ai/code-reviewer
+
+### 文章
+* https://www.sourcebot.dev/blog/review-agent-learnings
+* https://docs.sourcebot.dev/docs/features/agents/review-agent#ai-code-review-agent
+* https://guissmo.com/blog/my-current-ai-code-review-workflow/
 
 ## 软件开发
 * 仅仅用来编写后端的系统：https://pipo360.xyz/#demo
