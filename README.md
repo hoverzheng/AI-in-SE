@@ -83,6 +83,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * https://github.com/qodo-ai/pr-agent?tab=readme-ov-file
 * https://www.tweakr.dev/
 * https://github.com/kodustech/kodus-ai
+* https://github.com/qodo-ai/pr-agent
 
 ### 商用产品
 * https://www.coderabbit.ai/
