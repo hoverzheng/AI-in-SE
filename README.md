@@ -61,9 +61,11 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [ai-code-translator](https://github.com/mckaywrigley/ai-code-translator.git)：不同语言之间的代码转换
 * [内容切割工具](https://chonkie.ai/) ： 专门对文档，代码进行切割的工具库
 * [PromptForge提示词评估和测试开源软件](https://github.com/insaaniManav/prompt-forge/tree/main)
+* [tokendagger: 快速进行tokenizer的软件](https://github.com/M4THYOU/TokenDagger)
 
 ## 5.大模型观测
 * [llm_debugger](https://github.com/akhalsa/llm_debugger): 可以调试大模型输入输出
+  
 
 ## 6. 大模型安全
 * prompt注入： https://simonwillison.net/series/prompt-injection/
