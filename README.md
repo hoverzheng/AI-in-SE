@@ -99,6 +99,7 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * https://www.sourcebot.dev/blog/review-agent-learnings
 * https://docs.sourcebot.dev/docs/features/agents/review-agent#ai-code-review-agent
 * https://guissmo.com/blog/my-current-ai-code-review-workflow/
+* [大模型推理手册](https://bentoml.com/llm/)
 
 ## 软件开发
 * 仅仅用来编写后端的系统：https://pipo360.xyz/#demo
