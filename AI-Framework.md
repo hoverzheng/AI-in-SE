@@ -2,5 +2,5 @@
 
 ## 开源框架
 ### 开源框架
-* [Langfuse: 跟踪，评价，观测，提示词管理] (https://langfuse.com/)
+* [Langfuse] (https://langfuse.com/):  跟踪，评价，观测，提示词管理
  Langfuse 和 Helicone
