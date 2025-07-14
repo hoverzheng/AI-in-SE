@@ -103,3 +103,8 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 
 ## 软件开发
 * 仅仅用来编写后端的系统：https://pipo360.xyz/#demo
+
+## 10. chat to database
+* [vanna](https://github.com/vanna-ai/vanna?tab=readme-ov-file)
+* [gptsql](https://github.com/tatari-tv/gptsql)
+* [panda-ai](https://github.com/Sinaptik-AI/pandas-ai?tab=readme-ov-file)
