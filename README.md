@@ -108,3 +108,6 @@ Experimental toolkit for auto-generating codebase documentation using LLMs
 * [vanna](https://github.com/vanna-ai/vanna?tab=readme-ov-file)
 * [gptsql](https://github.com/tatari-tv/gptsql)
 * [panda-ai](https://github.com/Sinaptik-AI/pandas-ai?tab=readme-ov-file)
+
+## 11. 算力调度
+* [KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler):AI算力调度
