@@ -9,5 +9,5 @@
 
 ## 算力调度
 ### 开源
-* [KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler)
+* [KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler) ：开源的算力调度系统
 * 
